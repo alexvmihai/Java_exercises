@@ -192,16 +192,33 @@ public class Main {
 //        FactorPrinter.printFactors(32);
 
 //        PerfectNumber.isPerfectNumber(5);
-
-        NumberToWords.numberToWords(1000);
-        System.out.println(NumberToWords.reverse(-2521));
+//
+//        NumberToWords.numberToWords(1000);
+//        System.out.println(NumberToWords.reverse(-2521));
 
 //        System.out.println(NumberToWords.reverse(2345));
 
 //        NumberToWords.getDigitCount(231);
 
+//        System.out.println(FlourPacker.canPack(1,0, 4));
+//        System.out.println(FlourPacker.canPack(1,0, 5));
+//        System.out.println(FlourPacker.canPack(0,5, 4));
+//        System.out.println(FlourPacker.canPack(2,2, 12));
+//        System.out.println(FlourPacker.canPack(-3,2, 12));
+//        System.out.println(FlourPacker.canPack(2,1, 5));
+//        System.out.println(FlourPacker.canPack(2,10, 18));
+//        System.out.println(FlourPacker.canPack(6,2, 17));
 
+//        LargestPrime.isPrime(41);
+//
+//        System.out.println(LargestPrime.getLargestPrime(21));
+//        System.out.println(LargestPrime.getLargestPrime(217));
+//        System.out.println(LargestPrime.getLargestPrime(0));
+//        System.out.println(LargestPrime.getLargestPrime(45));
+//        System.out.println(LargestPrime.getLargestPrime(-1));
+//        System.out.println(LargestPrime.getLargestPrime(2));
 
+        DiagonalStar.printSquareStar(20);
 
 
 
